@@ -5,8 +5,8 @@ import Counter from "./components/Counter";
 function App() {
   return (
     <div>    
-     {/* <Todo /> */}
-     <Counter  />
+     <Todo />
+     {/* <Counter  /> */}
     </div>
   );
   }
